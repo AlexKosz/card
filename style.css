@@ -1,0 +1,41 @@
+
+.UserCard{
+    margin: auto;
+    height: 400px;
+    width: 700px;
+    background-color: rgb(255, 255, 255);
+    border: black;
+    border-style: solid;
+}
+
+#prof{
+    height: 100px;
+    position: relative;
+    top: -50px;
+    left: 50px;
+}
+
+h1{
+    position: relative;
+    top: -30px;
+    left: 50px;
+}
+
+h2{
+    position: relative;
+    top: -30px;
+    left: 50px;
+}
+
+p{
+    position: relative;
+    top: -30px;
+    left: 50px;
+}
+
+a{
+    color: rgb(3, 17, 97);
+    position: relative;
+    top: -30px;
+    left: 90px;
+}
